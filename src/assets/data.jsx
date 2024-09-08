@@ -43,7 +43,7 @@ export const projects = [
     url: 'https://msbprojects.netlify.app/',
     github: 'https://github.com/MudassarBagwan',
     title: 'first project',
-    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
+    text: 'Showcasing my web development skills and projects, my portfolio highlights innovative solutions and modern technologies. Explore my work to see how I combine creativity and technical expertise to build responsive, user-friendly websites. Connect with me to discuss potential collaborations or learn more about my development journey.',
   },
   {
     id: nanoid(),
@@ -51,7 +51,7 @@ export const projects = [
     url: 'https://msbprojects.netlify.app/',
     github: 'https://github.com/MudassarBagwan',
     title: 'second project',
-    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
+    text: 'Showcasing my web development skills and projects, my portfolio highlights innovative solutions and modern technologies. Explore my work to see how I combine creativity and technical expertise to build responsive, user-friendly websites. Connect with me to discuss potential collaborations or learn more about my development journey.',
   },
   {
     id: nanoid(),
@@ -59,7 +59,7 @@ export const projects = [
     url: 'https://msbprojects.netlify.app/',
     github: 'https://github.com/MudassarBagwan',
     title: 'third project',
-    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
+    text: 'Showcasing my web development skills and projects, my portfolio highlights innovative solutions and modern technologies. Explore my work to see how I combine creativity and technical expertise to build responsive, user-friendly websites. Connect with me to discuss potential collaborations or learn more about my development journey.',
   },
   {
     id: nanoid(),
@@ -67,7 +67,7 @@ export const projects = [
     url: 'https://msbprojects.netlify.app/',
     github: 'https://github.com/MudassarBagwan',
     title: 'fourth project',
-    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
+    text: 'Showcasing my web development skills and projects, my portfolio highlights innovative solutions and modern technologies. Explore my work to see how I combine creativity and technical expertise to build responsive, user-friendly websites. Connect with me to discuss potential collaborations or learn more about my development journey.',
   },
   {
     id: nanoid(),
@@ -75,7 +75,7 @@ export const projects = [
     url: 'https://msbprojects.netlify.app/',
     github: 'https://github.com/MudassarBagwan',
     title: 'fifth project',
-    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
+    text: 'Showcasing my web development skills and projects, my portfolio highlights innovative solutions and modern technologies. Explore my work to see how I combine creativity and technical expertise to build responsive, user-friendly websites. Connect with me to discuss potential collaborations or learn more about my development journey.',
   },
   
 
