@@ -5,6 +5,8 @@ import Img2 from './find_images.png';
 import Img3 from './color_genrator.png';
 import Img4 from './coffe.png';
 import Img5 from './Bagwan_transport.png';
+import Img6 from './tailwind_portfolio.jpg';
+import Img7 from './fruit_nutrition.jpg';
 
 
 
@@ -40,7 +42,7 @@ export const projects = [
   {
     id: nanoid(),
     img: Img1,
-    url: 'https://msbprojects.netlify.app/',
+    url: 'https://mudassarbagwan-portfolio.vercel.app/',
     github: 'https://github.com/MudassarBagwan',
     title: 'first project',
     text: 'Showcasing my web development skills and projects, my portfolio highlights innovative solutions and modern technologies. Explore my work to see how I combine creativity and technical expertise to build responsive, user-friendly websites. Connect with me to discuss potential collaborations or learn more about my development journey.',
@@ -48,7 +50,7 @@ export const projects = [
   {
     id: nanoid(),
     img: Img2,
-    url: 'https://msbprojects.netlify.app/',
+    url: 'https://imagefindermsb.netlify.app/',
     github: 'https://github.com/MudassarBagwan',
     title: 'second project',
     text: 'Showcasing my web development skills and projects, my portfolio highlights innovative solutions and modern technologies. Explore my work to see how I combine creativity and technical expertise to build responsive, user-friendly websites. Connect with me to discuss potential collaborations or learn more about my development journey.',
@@ -56,7 +58,7 @@ export const projects = [
   {
     id: nanoid(),
     img: Img3,
-    url: 'https://msbprojects.netlify.app/',
+    url: 'https://colorgenrator.vercel.app/',
     github: 'https://github.com/MudassarBagwan',
     title: 'third project',
     text: 'Showcasing my web development skills and projects, my portfolio highlights innovative solutions and modern technologies. Explore my work to see how I combine creativity and technical expertise to build responsive, user-friendly websites. Connect with me to discuss potential collaborations or learn more about my development journey.',
@@ -64,7 +66,7 @@ export const projects = [
   {
     id: nanoid(),
     img: Img4,
-    url: 'https://msbprojects.netlify.app/',
+    url: 'https://coffee-discover.vercel.app/',
     github: 'https://github.com/MudassarBagwan',
     title: 'fourth project',
     text: 'Showcasing my web development skills and projects, my portfolio highlights innovative solutions and modern technologies. Explore my work to see how I combine creativity and technical expertise to build responsive, user-friendly websites. Connect with me to discuss potential collaborations or learn more about my development journey.',
@@ -72,7 +74,25 @@ export const projects = [
   {
     id: nanoid(),
     img: Img5,
-    url: 'https://msbprojects.netlify.app/',
+    url: 'https://msbtransport.netlify.app/',
+    github: 'https://github.com/MudassarBagwan',
+    title: 'sixth project',
+    text: 'Showcasing my web development skills and projects, my portfolio highlights innovative solutions and modern technologies. Explore my work to see how I combine creativity and technical expertise to build responsive, user-friendly websites. Connect with me to discuss potential collaborations or learn more about my development journey.',
+  },
+
+  {
+    id: nanoid(),
+    img: Img6,
+    url: 'https://msbtailwindportfolio.netlify.app/',
+    github: 'https://github.com/MudassarBagwan',
+    title: 'seventh project',
+    text: 'Showcasing my web development skills and projects, my portfolio highlights innovative solutions and modern technologies. Explore my work to see how I combine creativity and technical expertise to build responsive, user-friendly websites. Connect with me to discuss potential collaborations or learn more about my development journey.',
+  },
+
+  {
+    id: nanoid(),
+    img: Img7,
+    url: 'https://msbfruitsnutrition.netlify.app/',
     github: 'https://github.com/MudassarBagwan',
     title: 'fifth project',
     text: 'Showcasing my web development skills and projects, my portfolio highlights innovative solutions and modern technologies. Explore my work to see how I combine creativity and technical expertise to build responsive, user-friendly websites. Connect with me to discuss potential collaborations or learn more about my development journey.',
